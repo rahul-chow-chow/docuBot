@@ -1,0 +1,22 @@
+{
+  "name": "docubot",
+  "version": "1.0.0",
+  "description": "backend for Slack DocuBot app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-chow-chow/docuBot.git"
+  },
+  "author": "rahul.chowdhury@asurion.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul-chow-chow/docuBot/issues"
+  },
+  "homepage": "https://github.com/rahul-chow-chow/docuBot#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
